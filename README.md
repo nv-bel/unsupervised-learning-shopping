@@ -1,2 +1,2 @@
-# unsupervised-learning-shopping
-Identificação do publico alvo de clientes de um shopping.
+# Aprendizagem Não Supervisionada - Clientes de shopping
+Identificação de um publico alvo de um shopping para gerar campanhas de marketing.
